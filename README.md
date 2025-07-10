@@ -1,1 +1,1 @@
-I use Opennote. The site is kinda mid honestly.
+I use opennote.me. The site is kinda mid honestly.

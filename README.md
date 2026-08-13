@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Hack Club HCB Granting Bot<br>👯 I’m looking to collaborate on a new platform for college planning!<br>🤝 I’m looking for help with YSWS's (hackclub.com)<br>🌱 I’m currently learning Java<br>💬 Ask me about Yoga & Mindfulness<br>⚡ Fun fact: I co-founded a nonprofit!
+🔭 I’m currently working on a Fuime.com<br>👯 I’m looking to collaborate on a new platform for teen banking<br>🤝 I’m looking for help with YSWS's (hackclub.com)<br>🌱 I’m currently learning Ruby on Rails<br>💬 Ask me about Yoga & Mindfulness<br>⚡ Fun fact: I co-founded a nonprofit! + going to Founders School
 
 
 ## 🌐 Socials:
